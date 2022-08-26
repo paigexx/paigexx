@@ -33,7 +33,7 @@ https://ethglobal.com/showcase/yield-share-b9cef
 
 ## 2021 Projects 
 
-### High Five Rewards - Web3 Rewards Marketplace (ETH Online 2021 - Road to Web3 )
+### High Five Rewards - Web3 Rewards Marketplace (ETH Online - Road to Web3 )
 🏊 Polygon Pool Prize
 
 <img width="1000" alt="0landing" src="https://user-images.githubusercontent.com/76425112/186805488-f43a34e0-480b-4225-9272-c7fcdfc5be54.png">
