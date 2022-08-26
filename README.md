@@ -2,12 +2,12 @@
 
 I'm Paige, a builder and a maker. I love developing web3 applications that solve real world problems by providing thoughtful and creative solutions. 
 
-🔭 I’m currently working on:  building dynamic onchain NFTs!
-📫 How to reach me: 
-    LinkedIn: linkedin.com/in/paigexx/
-    Discord: paigexx#5054
-🌱 I’m currently learning: Solidity 
-😄 Pronouns: She/Her
+🔭 I’m currently working on:  building dynamic onchain NFTs! <br />
+📫 How to reach me: <br />
+    LinkedIn: linkedin.com/in/paigexx/<br />
+    Discord: paigexx#5054 <br />
+🌱 I’m currently learning: Solidity <br />
+😄 Pronouns: She/Her <br />
 
 
 ## 2022 Projects  
