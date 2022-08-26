@@ -18,12 +18,12 @@ https://github.com/wooshorg
 https://ethglobal.com/showcase/woosh-pu1fn
 
 
-### Yield.Share - Platform Enabling Users to Supoort Artists Without Spending Money (ETH NewYork 2022)
+### Yield.Share - Yield Farming App For Artists (ETH NewYork 2022)
 🥇 Swivel — Best Use 🚀 Optimism — Just Deploy 🏊‍♂️ Pocket — Pool Prize 🥇 Valist — Best Use 🏊‍♂️ Valist — Pool Prize 🆙 Tatum — Up and Coming 🔟 IPFS/Filecoin — Top 10
 
 <img width="1000" alt="Screen Shot 2022-08-25 at 9 13 54 PM" src="https://user-images.githubusercontent.com/76425112/186803409-1ece168e-1cf4-4cdb-9e4e-155cd6ea424e.png">
 
-This platform allows users to stake crypto for a duration of time to support their favorite artists. Once the duration of time has passed the users will recive their staking and the creator will receive the yield. As a prize for fulfilling the staking period, the user will recieve an NFT, which is proof that the user supported the creator. 
+This platform allows users to stake crypto for a duration of time to support their favorite artists. Once the duration of time has passed the users will receive their staking and the creator will receive the yield. As a prize for fulfilling the staking period, the user will recieve an NFT, which is proof of support. 
 
 https://yieldshare-production.up.railway.app/
 
