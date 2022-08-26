@@ -4,7 +4,7 @@ I'm Paige, a builder and a maker. I love developing web3 applications that solve
 
 🔭 I’m currently working on building dynamic onchain NFTs!
 
-##2022 Projects  
+### 2022 Projects  
 
 💨 Woosh - Web2 Friendly Crypto P2P Payment App (ETH Mexico 2022)
 🥇 ETH Mexico Finalist 🏆 IPFS/Filecoin Sponsor Prize 🏆 LENS Honorary Prize 🏆 WorldCoin Pool Prize
