@@ -7,7 +7,7 @@ I'm Paige, a builder and a maker. I love developing web3 applications that solve
     LinkedIn: linkedin.com/in/paigexx/
     Discord: paigexx#5054
 🌱 I’m currently learning: Solidity 
-😄 Pronouns: She/Herr
+😄 Pronouns: She/Her
 
 
 ## 2022 Projects  
