@@ -6,7 +6,7 @@ I'm Paige, a builder and a maker. I love developing web3 applications that solve
 📫 How to reach me: <br />
 LinkedIn: linkedin.com/in/paigexx/<br />
 Discord: paigexx#5054 <br />
-🌱 I’m currently learning: Solidity <br />
+🌱 I’m currently learning: Solidity :p <br />
 😄 Pronouns: She/Her <br />
 
 
