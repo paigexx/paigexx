@@ -2,7 +2,7 @@
 
 I'm Paige, a builder and a maker. I love developing web3 applications that solve real world problems by providing thoughtful and creative solutions. 
 
-🔭 I’m currently working on:  building dynamic onchain NFTs with SVGs! <br />
+🔭 I’m currently working on:  building dynamic onchain NFTs with SVG! <br />
 📫 How to reach me: <br />
 LinkedIn: linkedin.com/in/paigexx/<br />
 Discord: paigexx#5054 <br />
