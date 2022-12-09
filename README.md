@@ -13,6 +13,21 @@ Twitter: @paige__eth <br />
 
 ## 2022 Projects  
 
+### 💨 CoverFi - No-cost Decentralized Insurance For DeFi hack (ETH San Francisco 2022)
+🔟 Empiric — Top 10 🏊‍♂️ Alluo — Pool Prize 🏊‍♂️ UMA — Pool Prize 🥇 Push Protocol — Best Use
+
+![Screenshot 2022-12-08 at 7 10 17 PM](https://user-images.githubusercontent.com/76425112/206600104-552788dd-bf43-4504-8bea-1736b57b9977.png)
+CoverFi aims to help onboard millions of people to the DeFi ecosystem by making them feel more secure through a no-cost, continuous and easy-to-use insurance protocol for DeFi hacks.
+
+So far this year $3 billion have been stolen due to hacks in DeFi protocols, the vast majority of losses were not covered by any type of insurance. The users affected by those hacks currently have no real option other than just accepting the losses. There are several existing insurance protocols but those are very technical and hard to use for mainstream users.
+
+That’s where CoverFi comes in! CoverFi is a no-cost, continuous and easy-to-use insurance protocol.
+
+Users deposit USDC into our protocol, and we use DeFi apps like Alluo to generate yield over the total premium deposited and we will use that yield to pay back the claims. The users will always have the option to withdraw the original amount paid as a premium with no loss. The insurance is kept active as long as the user does not make any withdrawals. Whenever they decide to withdraw, it is automatically canceled.
+
+Once a hack occurs in any of the supported DeFi protocols, users can submit an insurance claim and receive the coverage as soon as the claim is confirmed by UMA Optimistic Oracle.
+
+
 ### 💨 Woosh - Web2 Friendly Crypto P2P Payment App (ETH Mexico 2022)
 🥇 ETH Mexico Finalist 🏆 IPFS/Filecoin Sponsor Prize 🏆 LENS Honorary Prize 🏆 WorldCoin Pool Prize
 
