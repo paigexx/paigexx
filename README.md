@@ -28,11 +28,15 @@ Users deposit USDC into our protocol, and we use DeFi apps like Alluo to generat
 
 Once a hack occurs in any of the supported DeFi protocols, users can submit an insurance claim and receive the coverage as soon as the claim is confirmed by UMA Optimistic Oracle.
 
+https://ethglobal.com/showcase/coverfi-ocn0q
+
+https://github.com/CoverFi
 
 ### 💨 Woosh - Web2 Friendly Crypto P2P Payment App (ETH Mexico 2022)
 🥇 ETH Mexico Finalist 🏆 IPFS/Filecoin Sponsor Prize 🏆 LENS Honorary Prize 🏆 WorldCoin Pool Prize
 
-![unknown](https://user-images.githubusercontent.com/76425112/186803721-8b763a11-bff0-40c1-a0dc-239f264e388b.png)
+<img width="1500" alt="200166480-a3bcb837-3d55-4e1d-ad80-f994cfbea26f" src="https://user-images.githubusercontent.com/76425112/206600600-73a0581c-16d5-4db4-a4ca-11396ee03e3c.png">
+
 
 Woosh aims to onboard web2 users into the world of crypto by providing a user-friendly and intuitive cash app. It's simple enough for web2 users and functional enough for web3 users. Little to zero knowledge of crypto, Ethereum, or gas fees is necessary for the user to get started. We aimed to make this cash app as simple as humanly possible. Imagine Web3 + Venmo, with Woosh, you can follow your friends, request/send crypto, customize your profile and have peace of mind that every transaction you complete is with a verified human. No bots allowed!
 
