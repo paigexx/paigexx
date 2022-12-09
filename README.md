@@ -16,7 +16,7 @@ Twitter: @paige__eth <br />
 ### 💨 CoverFi - No-cost Decentralized Insurance For DeFi hack (ETH San Francisco 2022)
 🔟 Empiric — Top 10 🏊‍♂️ Alluo — Pool Prize 🏊‍♂️ UMA — Pool Prize 🥇 Push Protocol — Best Use
 
-![Screenshot 2022-12-08 at 7 12 52 PM](https://user-images.githubusercontent.com/76425112/206600452-72d2dbf4-0546-4cfd-b73e-3544da627d03.png)
+<img width="1500" alt="200166480-a3bcb837-3d55-4e1d-ad80-f994cfbea26f" src="https://user-images.githubusercontent.com/76425112/206600669-542f7595-fbe2-4af5-904f-8c9cdb53c44e.png">
 
 CoverFi aims to help onboard millions of people to the DeFi ecosystem by making them feel more secure through a no-cost, continuous and easy-to-use insurance protocol for DeFi hacks.
 
