@@ -22,7 +22,9 @@ We leveraged ERC-6551 to introduce accountability between research groups and do
 The aim of the project is to create traceability, transferability and visibility of research projects, while allowing donators to be active particpants of the initiative.
 
 https://swirl-eth.vercel.app/
+
 https://ethglobal.com/showcase/swirl-78tgy
+
 https://github.com/swirl-xyz/swirl
 
 
