@@ -10,6 +10,22 @@ Twitter: @paige__eth <br />
 😄 Pronouns: She/Her <br />
 
 
+## 2023 Projects  
+
+### Swirl - A novel approach to P2P funding for decentralized science using ERC-6551 (ETH NYC 2023)
+🥇 Polygon — Best Public Good 🥇 UMA — Best Use 🥇 Privy — Best Use 🏊‍♀️ Arbitrum - Pool Prize
+
+<img width="1491" alt="swirl" src="https://github.com/paigexx/paigexx/assets/76425112/c9f2cb81-36d4-4a21-946f-d5646d81c5f6">
+
+We leveraged ERC-6551 to introduce accountability between research groups and donors of research projects. Research groups use our app to create a shared Safe that holds the funds for their research project. When a Safe is created, an NFT is issued to represent ownership of it. Donors can send donations to the research group's safe, and research groups can transfer ownership of the Safe by sending their NFT to another entity.
+
+The aim of the project is to create traceability, transferability and visibility of research projects, while allowing donators to be active particpants of the initiative.
+
+https://swirl-eth.vercel.app/
+https://ethglobal.com/showcase/swirl-78tgy
+https://github.com/swirl-xyz/swirl
+
+
 ## 2022 Projects  
 
 ### 💨 CoverFi - No-cost Decentralized Insurance For DeFi hack (ETH San Francisco 2022)
