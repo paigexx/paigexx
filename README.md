@@ -6,7 +6,7 @@ I'm Paige, a builder and a maker. I love developing web3 applications that solve
 LinkedIn: linkedin.com/in/paigexx/<br />
 Discord: paigexx#5054 <br />
 Twitter: @paige__eth <br />
-Warcast: @paigexx
+Warpcast: @paigexx
 
 
 ## 2023 Projects  
